@@ -1,0 +1,12 @@
+D:\CSharpPractices\EFManytoMany\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\CSharpPractices\EFManytoMany\Domain\bin\Debug\net7.0\Domain.dll
+D:\CSharpPractices\EFManytoMany\Domain\bin\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\Domain.dll
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\EFManytoMany\Domain\obj\Debug\net7.0\ref\Domain.dll
